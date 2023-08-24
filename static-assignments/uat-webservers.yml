@@ -1,0 +1,4 @@
+- name: Playbook demo
+  hosts: uat-webservers
+  roles:
+  - webserver
